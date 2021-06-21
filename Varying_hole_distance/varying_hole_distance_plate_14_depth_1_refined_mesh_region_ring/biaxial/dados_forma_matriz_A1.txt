@@ -1,0 +1,5 @@
+*cfopen,dados_dos_nos_A1,txt,C:\Manasses\varying_hole_distance_plate_14_depth_1_refined_mesh_region_ring\biaxial\difference%diff%mm
+*vwrite,SEQU,dados_dos_nos_A1(1,1), dados_dos_nos_A1(1,2), dados_dos_nos_A1(1,3),dados_dos_nos_A1(1,4), dados_dos_nos_A1(1,5),dados_dos_nos_A1(1,6),dados_dos_nos_A1(1,7), dados_dos_nos_A1(1,8),dados_dos_nos_A1(1,9),dados_dos_nos_A1(1,10)
+(F6.0,'    ',F15.10,'    ',F15.10,'    ',F15.10,'    ',F15.10,'  ', F15.10,'    ',F15.10,'    ',F15.10,'  ', F15.10,'    ',F15.10,'  ', F15.10) 
+!In the graphical user interface, the *VWRITE command can only be
+! executed from an external file such as /INPUT or *USE
