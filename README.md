@@ -26,5 +26,3 @@ There are different types of elements with 1,2 or 3 dimensions, and the user is 
 
 In initial simulations, the element size should be larger to avoid unnecessary  expenditure of time and computational resources. However, the element size significantly affects the accuracy of the simulation results and consequently, more refined meshes lead to better results. To speed up the solution, it is common to implement different mesh densities according to the local stress and displacement gradients. The influence of the element size can be identified with a mesh refinement study, keeping the other parameters constant.
 
-
-*** The contents of this repository will be released in June 2021.
