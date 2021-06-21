@@ -20,9 +20,7 @@ secondary unknowns, such as stress and strain.
 
 There are different types of elements with 1,2 or 3 dimensions, and the user is usually free to choose them according to his or her needs. 
 
-In initial simulations simulations, the element size should be larger to avoid unnecessary unnecessary expenditure of time and computational resources. However, the element of the element significantly affects the accuracy of the simulation results and consequently, more refined meshes lead to better results. To to speed up the solution, it is common to implement different mesh densities according to the local stress and displacement gradients. The influence of the element size can be identified with a mesh refinement study mesh, keeping the other parameters constant.
-
-Beyond the influence of the element size, a theoretical scan must first be performed against analytical and numerical results obtained by other researchers. In the literature are found cases of analysis of holes in plates under tension, where certain distances are suggested based on numerical results. 
+In initial simulations, the element size should be larger to avoid unnecessary  expenditure of time and computational resources. However, the element size significantly affects the accuracy of the simulation results and consequently, more refined meshes lead to better results. To speed up the solution, it is common to implement different mesh densities according to the local stress and displacement gradients. The influence of the element size can be identified with a mesh refinement study, keeping the other parameters constant.
 
 
 *** The contents of this repository will be released in June 2021.
