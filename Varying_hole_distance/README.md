@@ -8,8 +8,6 @@ One of the most widely used methods for measuring residual stresses is called th
 In addition to the accuracy required in the machining of the hole, the distance between the holes also has an influence on the stress results. This influence can be evaluated numerically by means of Finite Element Analysis (FEA).
 
 
-
-
 # Varying Hole Distance
 
 The project aimed to expand the knowledge of the Hole-Drilling Method (HDM), by numerical analysis of the influence of the distance between holes on the stresses identified at the hole border. Numerical simulations were performed in order to predict variations in the stresses around the hole as a function of the distance between the holes. The influence of the distance was evaluated with the aid of Ansys Mechanical APDL® and Matlab® software.
@@ -26,3 +24,5 @@ In this way, the results obtained for the through hole case could be compared wi
 
 The theme of the project is related to the continuity of research activities activities in the area of Modeling and Simulation developed at LMP/UFSC and at Labmetro/UFSC. 
 The activities developed from the partnership between these laboratories are focused on the optimization of the residual stress measurement equipment residual stresses and the measurement process.
+
+For more detailed information, please see the *Varying_hole_distance_problem_description.pdf* presentation
