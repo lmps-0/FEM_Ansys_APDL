@@ -1,6 +1,10 @@
-# FEM_Ansys_APDL
+# Ansys Mechanical APDL
 
-Numerical Simulations via Finite Elements of the Hole drilling Method for Measuring Residual Stress
+Numerical Simulations via Finite Elements of the Hole Drilling Method for Measuring Residual Stress
+
+Ansys APDL or Ansys Parametric Design Language is the primary language used to commute with the Mechanical APDL solver. APDL can be used to automate tasks or to create a complete parametric model. 
+
+Ansys APDL is considered as an old-fashioned command-driven program that permits the user to input line by line codes and execute them on request. The advantage and what justified the choice of this tool to model and run the numerical simulations is in the level of control over the model. The possibility of writing optimized scripts allows for quick changes in geometry. It also allows more precise control of model mesh parameters. Such a tool is commonly used by many researchers in the field of the hole-drilling method simulations.
 
 
 # The Finite Element Analysis
