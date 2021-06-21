@@ -1,3 +1,15 @@
+# Residual Stress Analysis
+
+The analysis of residual stresses has fundamental importance in understanding of the damage introduced to components as a result of manufacturing processes, as well as enabling the identification of the state of in service of pipelines used by the oil and gas industry.
+
+Residual stresses are generally undesirable because they can cause premature failure of premature failure of manufactured parts. For this reason, the development of efficient methods to measure them is relevant.
+One of the most widely used methods for measuring residual stresses is called the Hole-Drilling Method, which is based on the observation of the deformations the surroundings of a hole produced in a piece. The machining of this this hole must be done with a good control of the process, since it is one of the sources of uncertainty in the calculation of residual stresses. This technique requires a hole with high precision and the stress levels introduced by machining should be minimized, since changes in the strain field by the production of the hole can mask measurement results.
+
+In addition to the accuracy required in the machining of the hole, the distance between the holes also has an influence on the stress results. This influence can be evaluated numerically by means of Finite Element Analysis (FEA).
+
+
+# Varying Hole Distance
+
 The project aimed to expand the knowledge of the Blind Hole Method 
 (MFC), by numerical analysis of the influence of the distance between holes on 
 on the stresses identified at the hole border. Numerical 
